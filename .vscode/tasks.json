@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/src/NanoCore.sln"
+                "${workspaceFolder}/NanoCore.sln"
             ],
             "problemMatcher": "$msCompile"
         }
